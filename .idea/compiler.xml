@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hmy-batch" />
+        <module name="hmy-common" />
+        <module name="hmy-etl" />
+        <module name="hmy-streaming" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hmy-batch" target="1.8" />
+      <module name="hmy-common" target="1.8" />
+      <module name="hmy-etl" target="1.8" />
+      <module name="hmy-streaming" target="1.8" />
+      <module name="sparkframework" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

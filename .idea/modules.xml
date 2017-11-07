@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hmy-batch/hmy-batch.iml" filepath="$PROJECT_DIR$/hmy-batch/hmy-batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmy-common/hmy-common.iml" filepath="$PROJECT_DIR$/hmy-common/hmy-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmy-etl/hmy-etl.iml" filepath="$PROJECT_DIR$/hmy-etl/hmy-etl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmy-streaming/hmy-streaming.iml" filepath="$PROJECT_DIR$/hmy-streaming/hmy-streaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkframework.iml" filepath="$PROJECT_DIR$/sparkframework.iml" />
+    </modules>
+  </component>
+</project>
